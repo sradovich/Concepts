@@ -6,79 +6,78 @@
 
 ## Mathematic fundamentals
 
-[] Linear Algebra
+- [ ]   Linear Algebra
 
-[] Statistics
+- [x]   Statistics
 
-[] ***Discrete Math***
+- [x]   ***Discrete Math***
 
-[] Number Theory/Cryptography
+- [x]   Number Theory/Cryptography
 
 ## Programming Languages and HDLs
-[] ***Java***
 
-[] ***Python***
+- [x]   ***Java***
 
-[] ***C***
+- [x]   ***Python***
 
-[] ***C++**
+- [x]   ***C***
 
-[] C#
+- [ ]   ***C++**
 
-[] ***Rust***
+- [x]   C#
 
-[] ***Verilog/Sys Verilog***
+- [ ]   ***Rust***
 
-[] Javascript
+- [x]   ***Verilog/Sys Verilog***
 
-[] Go
+- [ ]   Javascript
 
-[] Query Languages
+- [ ]   Go
+
+- [x]   Query Languages
 
 ## Data structures
 
-[] Hash tables
+- [x]   Hash tables
 
-[] Linked Lists
+- [x]   Linked Lists
 
-[] Trees
+- [x]   Trees
 
-[] BST
+- [x]   BST
 
-[] (Di)Graphs
+- [x]   (Di)Graphs
 
-[] Stacks
+- [x]   Stacks
 
-[] Queue
+- [x]   Queue
 
-[] Min/Max Heaps
+- [x]   Min/Max Heaps
 
 ## Broad Topics
 
-[] ***Operating Systems***
+- [x]   ***Operating Systems***
 
-[] ***Networks***
+- [x]   ***Networks***
 
-[] Computer Architecture
+- [x]   Computer Architecture
 
-[] ***Algorithms and 
+- [x]   ***Algorithms and Theory***
 
-[]***Theory***
+- [x]   Security
 
-[] Security
+- [ ]   ***Parallelism***
 
-[] ***Parallelism***
+- [ ]   ***AI/Machine Learning***
 
-[] ***AI/Machine Learning***
-
-[] Databases
+- [ ]   Databases
 
 ## Software Engineering
 
-[] Testing
+- [x]   Testing
 
-[] Version Control
+- [ ]   Version Control
 
-[] Scrum, Agile, etc.
+- [x]   Scrum, Agile, etc.
 
-[] Code Reviewing, standards and practices
+- [ ]   Code Reviewing, standards and practices

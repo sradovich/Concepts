@@ -2,7 +2,8 @@
 
 ***Particular interest and/or comfort***
 
-[reference](http://matt.might.net/articles/what-cs-majors-should-know/)
+[reference one](http://matt.might.net/articles/what-cs-majors-should-know/)
+[reference two]([reference one](http://matt.might.net/articles/what-cs-majors-should-know/))
 
 ## Mathematic fundamentals
 
@@ -81,3 +82,11 @@
 - [x]   Scrum, Agile, etc.
 
 - [ ]   Code Reviewing, standards and practices
+
+## Tools
+
+- [ ] Vim
+
+- [x] Git
+
+- [ ] Postman

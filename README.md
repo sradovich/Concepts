@@ -23,8 +23,7 @@
 
 - [x]   ***C***
 
-
-- [ ]   ***C++**
+- [ ]   ***C++***
     - [C++ reference](https://github.com/jesyspa/linear-cpp)
 
 - [x]   C#

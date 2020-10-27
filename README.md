@@ -22,6 +22,8 @@
 
 - [x]   ***C***
 
+    - [C reference](https://github.com/jesyspa/linear-cpp)
+
 - [ ]   ***C++**
 
 - [x]   C#

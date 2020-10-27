@@ -2,7 +2,8 @@
 
 ***Particular interest and/or comfort***
 
-[reference](http://matt.might.net/articles/what-cs-majors-should-know/)
+[reference one](http://matt.might.net/articles/what-cs-majors-should-know/)
+[reference two]([reference one](http://matt.might.net/articles/what-cs-majors-should-know/))
 
 ## Mathematic fundamentals
 
@@ -22,9 +23,9 @@
 
 - [x]   ***C***
 
-    - [C reference](https://github.com/jesyspa/linear-cpp)
 
 - [ ]   ***C++**
+    - [C++ reference](https://github.com/jesyspa/linear-cpp)
 
 - [x]   C#
 
@@ -83,3 +84,11 @@
 - [x]   Scrum, Agile, etc.
 
 - [ ]   Code Reviewing, standards and practices
+
+## Tools
+
+- [ ] Vim
+
+- [x] Git
+
+- [ ] Postman
